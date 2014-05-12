@@ -1,4 +1,1 @@
-getrendezvous.co
-================
-
-Our website!
+Redirects to http://getrendezvous.com
